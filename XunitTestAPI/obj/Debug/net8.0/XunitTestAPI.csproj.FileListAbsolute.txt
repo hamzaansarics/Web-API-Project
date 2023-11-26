@@ -30,3 +30,4 @@ D:\XunitTestAPI\XunitTestAPI\XunitTestAPI\obj\Debug\net8.0\refint\XunitTestAPI.d
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI\obj\Debug\net8.0\XunitTestAPI.pdb
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI\obj\Debug\net8.0\XunitTestAPI.genruntimeconfig.cache
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI\obj\Debug\net8.0\ref\XunitTestAPI.dll
+D:\XunitTestAPI\XunitTestAPI\XunitTestAPI\obj\Debug\net8.0\XunitTestAPI.sourcelink.json

@@ -109,3 +109,6 @@ D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\obj\Debug\net8.0\refint\XunitTes
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\obj\Debug\net8.0\XunitTestAPI.Tests.pdb
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\obj\Debug\net8.0\XunitTestAPI.Tests.genruntimeconfig.cache
 D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\obj\Debug\net8.0\ref\XunitTestAPI.Tests.dll
+D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\bin\Debug\net8.0\Moq.dll
+D:\XunitTestAPI\XunitTestAPI\XunitTestAPI.Tests\obj\Debug\net8.0\XunitTestAPI.Tests.sourcelink.json
